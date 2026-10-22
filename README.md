@@ -33,7 +33,7 @@
 | 🧬 **Automation** | Turned manual clinical genomics reporting into tested rule services | **31-field** PDF reports generated automatically on upload |
 | ⬆️ **Modernization** | Led Rails **6 → 7 → 8.1** and Ruby 3.3 upgrades | 280–360 files per upgrade |
 | 🔀 **Migration** | Moved a production repository to a company-controlled remote | **376 branches**, zero history loss |
-| 👥 **Team impact** | Multi-tenant healthcare staffing and training platform | **3rd of 16** contributors by commits, 330+ commits in 15 months |
+| 👥 **Ownership** | Became a core contributor on a multi-tenant healthcare staffing and training platform | Owned **3 product areas** within 15 months: applicant tracking, course builder, subscription billing |
 
 ---
 
