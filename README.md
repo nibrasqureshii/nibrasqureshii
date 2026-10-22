@@ -49,6 +49,17 @@
 
 ---
 
+### 📈 Recent public activity
+
+<!-- ACTIVITY:START -->
+**Recently updated public repos**
+- [claude-rag-lab](https://github.com/nibrasqureshii/claude-rag-lab): Observable retrieval-augmented generation lab: chunking, embeddings, Chroma vector search and Claude <sub>(Python · updated 2026-10-22)</sub>
+
+<sub>Public activity, last 30 days: 1 new repo or branch. Updated 2026-10-22 by a GitHub Action.</sub>
+<!-- ACTIVITY:END -->
+
+---
+
 ### 🧰 Tech stack
 
 **Backend**<br/>
