@@ -27,7 +27,7 @@
 
 | | What I did | Result |
 |---|---|---|
-| 💳 **Payments** | Redesigned card checkout with 3D Secure (3DS2) authentication for an event-ticketing platform | Resumable pending/complete flow with no double charges, validated by 12 end-to-end scenarios |
+| 💳 **Payments** | Redesigned card checkout with 3D Secure (3DS2) authentication for an event-ticketing platform | Resumable pending/complete flow designed to prevent double charges, validated by 12 end-to-end scenarios |
 | 🤖 **LLM accuracy** | Built an evaluation harness for a natural-language → SQL reporting tool | Accuracy raised from **88% to 100%** on a 43-question evaluation set |
 | 🔐 **AI + sensitive data** | Designed self-serve LLM reporting over a healthcare database | PHI-free schema catalog, SQL validator, read-only grants and audit trail, backed by **157 tests** |
 | 🧬 **Automation** | Turned manual clinical genomics reporting into tested rule services | **31-field** PDF reports generated automatically on upload |
