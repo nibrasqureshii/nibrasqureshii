@@ -53,9 +53,10 @@
 
 <!-- ACTIVITY:START -->
 **Recently updated public repos**
+- [django-fastapi-checkout](https://github.com/nibrasqureshii/django-fastapi-checkout): Resumable 3D Secure ticket checkout: Django + DRF shop and FastAPI payment gateway simulator with signed, idempotent webhooks <sub>(Python · updated 2026-10-23)</sub>
 - [claude-rag-lab](https://github.com/nibrasqureshii/claude-rag-lab): Observable retrieval-augmented generation lab: chunking, embeddings, Chroma vector search and Claude <sub>(Python · updated 2026-10-22)</sub>
 
-<sub>Public activity, last 30 days: 1 new repo or branch. Updated 2026-10-22 by a GitHub Action.</sub>
+<sub>Public activity, last 30 days: 2 new repos or branches. Updated 2026-10-26 by a GitHub Action.</sub>
 <!-- ACTIVITY:END -->
 
 ---
